@@ -1,3 +1,9 @@
 h1{
 font-style: italic;
+syntax: s;
+}
+h1
+{
+
+    line-gap-override: 2;
 }
