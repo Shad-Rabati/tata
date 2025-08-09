@@ -47,7 +47,8 @@ am repository tanha bo testa wa bo fer bwny
 
 >shad hasan
 
-==- [x]== ==shad hasan==
+- [x] ==shad hasan==
+
 - [ ] ~~hama~~
   
   `https://www.markdownguide.org/extended-syntax/#footnotes`
