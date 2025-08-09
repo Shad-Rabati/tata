@@ -44,3 +44,10 @@ am repository tanha bo testa wa bo fer bwny
 </html>
 
 ```
+
+>shad hasan
+
+==- [x]== ==shad hasan==
+- [ ] ~~hama~~
+  
+  `https://www.markdownguide.org/extended-syntax/#footnotes`
