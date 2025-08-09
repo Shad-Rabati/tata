@@ -19,8 +19,12 @@ am repository tanha bo testa wa bo fer bwny
    3. oop
    
 [gogle](https://github.com/Shad-Rabati/tata)
+
+
 ![logo](image.png)
+
 `git add index.html`
+
 ```html
 
 <!DOCTYPE html>
